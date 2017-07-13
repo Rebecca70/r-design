@@ -1,0 +1,9 @@
+body {
+  background-color: orange;
+}
+
+.main-container {
+  background-color: grey;
+  border-radius: 10px;
+  margin-top: 100px;
+}

@@ -1,8 +1,10 @@
 body {
   background-color: orange;
-  background-blend-mode: lighten;
   font-family: 'Raleway', sans-serif;
+
 }
+
+
 
 .img-home {
   margin: 2em;

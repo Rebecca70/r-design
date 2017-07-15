@@ -3,10 +3,14 @@ body {
   font-family: 'Raleway', sans-serif;
 }
 
-img {
+.img-home {
+  margin: 2em;
   max-width: 75%;
 }
 
+.img-small {
+  max-width: 33%;
+}
 
 
 .custom-button {
@@ -21,6 +25,6 @@ img {
   margin-top: 7em;
 }
 
-.contact {
+.text-container {
   margin: 2em;
 }

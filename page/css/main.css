@@ -4,12 +4,23 @@ body {
 }
 
 img {
-  max-width: 100%;
-
-  border-radius: 5px;
+  max-width: 75%;
 }
 
-.row {
-  margin-top: 5em;
 
+
+.custom-button {
+  margin: 2em;
+  background-color: orange;
+  border-radius: 0px;
+  border-color: grey;
+
+}
+
+.footer {
+  margin-top: 7em;
+}
+
+.contact {
+  margin: 2em;
 }

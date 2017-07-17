@@ -1,5 +1,6 @@
 body {
-  background-color: orange;
+  background-color: #262626;
+  color: lightgrey;
   font-family: 'Raleway', sans-serif;
 }
 
@@ -15,12 +16,18 @@ body {
 
 .custom-button {
   margin: 2em;
-  background-color: orange;
+  background-color: #262626;
+  color: lightgrey;
   border-radius: 0px;
   border-color: grey;
 
 }
 
+.mail {
+  color: lightgrey;
+  text-decoration: underline;
+
+}
 .footer {
   margin-top: 7em;
 }

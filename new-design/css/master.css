@@ -1,0 +1,25 @@
+body {
+  font-family: 'Oswald', sans-serif;
+  background-color: black;
+}
+
+.container {
+  background-color: grey;
+}
+
+.img-home {
+  max-width: 100%;
+}
+
+.header {
+  margin: 2em;
+}
+
+.footer {
+  margin-top: 2em;
+  margin-bottom: 100%;
+}
+.custom-button {
+  background-color: grey;
+  margin: 1em;
+}
